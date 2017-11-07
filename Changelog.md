@@ -18,6 +18,7 @@
     * Invalid input from player
     * Full board
 * Added introduction message
+* No GUI
 
 ---
 
