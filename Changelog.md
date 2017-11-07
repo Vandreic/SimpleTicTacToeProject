@@ -11,4 +11,14 @@
 
 ---
 
+### **Version 1.1** *[11/07-2017]*
+*Changes:*
+* Source code improved
+* Fixed bugs: 
+** Invalid input from player
+** Full board
+* Added introduction message
+
+---
+
 
